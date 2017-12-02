@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F1C768F1-973B-D404-670D-81A991EE6105}") = "Walmart", "Assembly-CSharp.csproj", "{92BAC88E-E546-B305-626D-0782F7259719}"
+EndProject
+Project("{F1C768F1-973B-D404-670D-81A991EE6105}") = "Walmart", "Assembly-CSharp-Editor.csproj", "{6ACC847A-44C8-79DB-C78A-0C821297EC83}"
+EndProject
+Project("{F1C768F1-973B-D404-670D-81A991EE6105}") = "Walmart", "Assembly-UnityScript-Editor-firstpass.unityproj", "{CA281C94-EC85-8AB9-242E-0EADEFAB8A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92BAC88E-E546-B305-626D-0782F7259719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BAC88E-E546-B305-626D-0782F7259719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BAC88E-E546-B305-626D-0782F7259719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BAC88E-E546-B305-626D-0782F7259719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACC847A-44C8-79DB-C78A-0C821297EC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACC847A-44C8-79DB-C78A-0C821297EC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACC847A-44C8-79DB-C78A-0C821297EC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACC847A-44C8-79DB-C78A-0C821297EC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA281C94-EC85-8AB9-242E-0EADEFAB8A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA281C94-EC85-8AB9-242E-0EADEFAB8A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA281C94-EC85-8AB9-242E-0EADEFAB8A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA281C94-EC85-8AB9-242E-0EADEFAB8A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
